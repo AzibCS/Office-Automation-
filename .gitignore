@@ -1,0 +1,14 @@
+# Environment files
+.env
+
+# AWS credentials
+credentials.json
+secret.json
+config.py
+token.json
+
+# Python
+venv/
+__pycache__/
+
+# Node
